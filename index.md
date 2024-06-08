@@ -5,8 +5,11 @@ You only have to have some `faith`
 > Known as [mRNA-4157 (V940)](https://en.wikipedia.org/wiki/MRNA-4157/V940), the jab is [custom-built](https://abikesa.github.io/sociology/) for each patient and tells their body to kill any remaining cancer cells and prevent the disease ever coming back.
 A sample of tumour is removed during the patient’s surgery, followed by DNA sequencing and the use of `artificial intelligence`. The result is a custom-built anti-cancer jab specific to the patient’s tumour.
 
+<details>
+  <summary>Metaphors</summary>
 <iframe src="https://en.wikipedia.org/wiki/Personalized_medicine" width="100%" height="800px" style="border:none;"></iframe>
 <iframe src="https://abikesa.github.io/sociology/" width="100%" height="800px" style="border:none;"></iframe>
+</details>
 
 
 ![](https://miro.medium.com/v2/resize:fit:1280/format:webp/1*uag8SgAbXN4GvxUG2T_lSw.jpeg)
